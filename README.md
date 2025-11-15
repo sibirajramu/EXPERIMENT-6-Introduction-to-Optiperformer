@@ -59,33 +59,19 @@ The system includes:
 
 ## Report
 
-1. Cover sheet (as per attached example).  
-2. Tabulation of received power, Q factor, and BER for 5 fiber lengths.  
-3. Plot of received power, Q factor, and BER vs. fiber length.  
-4. Description of eye diagram changes with increasing fiber length.
+<img width="1912" height="1011" alt="Screenshot 2025-11-15 144946" src="https://github.com/user-attachments/assets/19c2db16-1a62-479d-918a-63515a62f794" />
 
 ---
 
 ## Tabulation
 
 **Transmission Analysis Across Fiber Lengths**
+![opt exp 6 op](https://github.com/user-attachments/assets/80d2e14a-f696-4c16-985b-763dffd603dc)
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-
----
-
-## Graphs
-
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Thus the simulation of optical communication system is successfully verified with BER analyzer.
+
